@@ -16,3 +16,13 @@
   Hi amigo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+### :man_technologist: About Me :
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: Изучил теорию тестирования: принципы, виды тестирования, этапы жизненного цикла, тест-кейсы, баг-репорты.
+
+- :seedling: Проводил тестирование открытого API ВКонтакте (создание альбома, добавление фотографии и комментария с помощью POST, запрос списка фотографий с помощью GET, удаление фотографии и альбома с помощью DELETE).
+
+- :zap: Сейчас изучаю основы SQL и в будущем планирую повысить уровень знания и навыков работы с Postman.
+
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@Hoomyak-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hoomyak)
